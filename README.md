@@ -12,5 +12,6 @@ The purpose of HouseHunt is to streamline the real estate journey by providing a
 **Domain:** Real Estate
 **Progress:** 0%
 
+Source code: https://github.com/jfmartinz/house-rent
 ---
 *Synced from Zaby LMS Capstone Workspace*
