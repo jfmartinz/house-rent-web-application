@@ -5,7 +5,7 @@
 ### Milestone 1: Project setup and configuration
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-14
+- **Due:** 2026-05-10
 
 Folder setup: 
 Create frontend and
@@ -44,7 +44,7 @@ After the installation of all the libraries, the package.json files for the back
 ### Milestone 2: Backend Development 
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-14
+- **Due:** 2026-05-12
 
 Setup express server 
 Create index.js file in the server (backend folder). 
@@ -62,7 +62,7 @@ You need to make a middleware folder and in that make authMiddleware.js file for
 ### Milestone 3: Database Development
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-14
+- **Due:** 2026-05-13
 
 Set up a MongoDB database either locally or using a cloud-based MongoDB service like MongoDB Atlas.
 Create a database and define the necessary collections for users, transactions, stocks and orders.
